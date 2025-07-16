@@ -15,8 +15,8 @@
 ---
 
 ### 🔗 Connect with Me
-[![Linkedin Badge](https://img.shields.io/badge/-Yokesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/YOUR-LINKEDIN)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub Badge](https://img.shields.io/badge/-Yokesh-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/YOURUSERNAME)](https://github.com/YOURUSERNAME)
+[![Linkedin Badge](https://img.shields.io/badge/-Yokesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/YOUR-LINKEDIN)]([https://linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/yokesh-hari-krishna-s/))
+[![GitHub Badge](https://img.shields.io/badge/-Yokesh-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/YOURUSERNAME)]([https://github.com/YOURUSERNAME](https://github.com/yokeshkrish38/yokeshkrish38))
 
 ---
 
