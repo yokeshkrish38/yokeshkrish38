@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Yokesh Hari Krishna</h1>
-<h3 align="center">Aspiring DevOps Engineer | Cloud Enthusiast | Lifelong Learner</h3>
+<h3 align="center">Aspiring DevOps Engineer | Cloud Administrator | Infrastructure Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
