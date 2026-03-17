@@ -33,9 +33,9 @@
 ---
 
 ### 📂 Projects
-- 🚀 [CI/CD Pipeline for Node.js App](https://github.com/YOURUSERNAME/devops-project)
-- ☁️ [AWS Infrastructure with Terraform](https://github.com/YOURUSERNAME/aws-infra)
-- 🐳 [Dockerized Python App](https://github.com/YOURUSERNAME/docker-python)
+- 🚀 [MindTrack Application using Kubernetes , Codebuild ,Codepipeline and Version control](https://github.com/yokeshkrish38/Brain-Tasks-App)
+- ☁️ [Trend Application using Docker , Jenkins , Terraform and Kubernetes](https://github.com/yokeshkrish38/Trend)
+- 🐳 [Reactjs E-commerce Application using Docker and jenkins](https://github.com/yokeshkrish38/devops-build)
 
 ---
 
